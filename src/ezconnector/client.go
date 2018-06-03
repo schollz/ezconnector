@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/nat"
+	nat "github.com/schollz/nat0"
 	"encoding/gob"
 	log "fmt"
 	"net"
